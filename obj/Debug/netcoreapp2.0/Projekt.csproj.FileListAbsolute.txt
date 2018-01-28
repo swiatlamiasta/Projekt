@@ -1,0 +1,11 @@
+c:\Users\art\Desktop\Projekt\bin\Debug\netcoreapp2.0\Projekt.deps.json
+c:\Users\art\Desktop\Projekt\bin\Debug\netcoreapp2.0\Projekt.runtimeconfig.json
+c:\Users\art\Desktop\Projekt\bin\Debug\netcoreapp2.0\Projekt.runtimeconfig.dev.json
+c:\Users\art\Desktop\Projekt\bin\Debug\netcoreapp2.0\Projekt.dll
+c:\Users\art\Desktop\Projekt\bin\Debug\netcoreapp2.0\Projekt.pdb
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\Projekt.csproj.CoreCompileInputs.cache
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\Projekt.AssemblyInfoInputs.cache
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\Projekt.AssemblyInfo.cs
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\Projekt.dll
+c:\Users\art\Desktop\Projekt\obj\Debug\netcoreapp2.0\Projekt.pdb
